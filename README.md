@@ -3,7 +3,7 @@
 ## End-to-End Data Warehousing & Analytics Solution  
 **SQL Server | ETL | Data Modelling | Analytics**
 
-This project demonstrates the design and implementation of a modern **data warehouse and analytics solution** using SQL Server. It covers the full data lifecycle—from raw data ingestion to transformation, modelling, and analytics reporting—following industry-standard data engineering practices.
+This project demonstrates the design and implementation of a modern **data warehouse and analytics solution** using SQL Server. It covers the full data lifecycle from raw data ingestion to transformation, modelling, and analytics reporting following industry-standard data engineering practices.
 
 ---
 
@@ -102,3 +102,6 @@ SQL-Datawarehouse-Project/
 ├── analytics/           # SQL analytical queries/reports
 ├── docs/                # Architecture diagrams/documentation
 └── README.md
+
+Arya Salokhe
+📧 aryasalokhe19@gmail.com
